@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+}
+
+/* hedder section */
+
+.navbar-brand img{
+    width: auto;
+    height: 40px;
+}
+
+.heddersection{
+    background-color: #c8d6e5;
+}
+
+.contacform{
+    background-color: #e9ecef;
+}
+
+footer{
+    background-color: #17a2b8;
+}
